@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @jphoulchand
-- 👋 Hi, I’m usually based in London but now on EST timezone.
-- 👀 I’m interested in Graph Databases, DevOps
+- 🚀 I’m in London but travelling a lot
+- 👀 I’m interested in Graph Databases, DevOps, Security and FinOps
 - 🌱 I’m currently learning 日本語
-- 💞️ I’m looking to collaborate with fun people
-
+- 💞️ I’m getting older but looking to collaborate with fun people
 
 <!---
 jphoulchand/jphoulchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
